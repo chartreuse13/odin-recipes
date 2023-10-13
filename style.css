@@ -1,0 +1,35 @@
+body {
+    color: rgb(194, 228, 194);
+    text-align: center;
+}
+
+h1 {
+    font-size: x-large;
+    font-weight: 800;
+}
+
+img {
+   border-radius: 50%;
+}
+
+ul {
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+}
+
+ol {
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.child {
+  color: rgb(0, 0, 0);
+  font-weight: 800;
+  font-size: 14px;
+}
+
+.title {
+    color: white;
+}
